@@ -5,6 +5,5 @@ Rencana belajar
   * login
 - Mysql
 - React JS
-- Rest API
 - Vue js
   *buefy

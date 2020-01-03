@@ -2,7 +2,8 @@ Rencana belajar
 - GIT
 - PHP
   *bikin ecommerce
-  * Mysqli
+  * login
 - Mysql
 - React JS
 - Vue js
+  *buefy

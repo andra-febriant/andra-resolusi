@@ -5,3 +5,4 @@ Rencana belajar
 - Mysql
 - React JS
 - Rest API
+- Vue js
